@@ -1,1 +1,25 @@
-*{margin:0;padding:0}body{font-family:"微软雅黑"}li,ul{list-style:none}a,a:hover{text-decoration:none}b,em,h1,h2,h3,h4,i,strong{font-weight:400;font-style:normal}.clearfix:after{content:"";clear:both;height:0;display:block;overflow:hidden;visibility:hidden}
+@charset "UTF-8";
+* {
+  margin: 0;
+  padding: 0; }
+
+body {
+  font-family: "微软雅黑"; }
+
+ul, li {
+  list-style: none; }
+
+a, a:hover {
+  text-decoration: none; }
+
+h1, h2, h3, h4, b, em, i, strong {
+  font-weight: normal;
+  font-style: normal; }
+
+.clearfix:after {
+  content: "";
+  clear: both;
+  height: 0;
+  display: block;
+  overflow: hidden;
+  visibility: hidden; }
